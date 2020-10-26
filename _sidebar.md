@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="GitHub Octocat" src="https://user-images.githubusercontent.com/958227/84303927-67d8b480-ab75-11ea-98fe-5d9c311b0322.png" width="40%">
+  <img alt="GitHub Octocat" src="https://longshilin.com/images/favicon.png" width="40%">
 </p>
 
 - Getting Started
@@ -11,3 +11,6 @@
 - [References](references.md)
 
 - [License](license.md)
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTIxMTY2NTQ3NzhdfQ==
+-->
