@@ -6,8 +6,3 @@
 
   - [Quick Start](quick-start.md)
 
-- [Related Projects](related-projects.md)
-
-- [References](references.md)
-
-- [License](license.md)
