@@ -11,6 +11,3 @@
 - [References](references.md)
 
 - [License](license.md)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMTY2NTQ3NzhdfQ==
--->

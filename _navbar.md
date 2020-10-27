@@ -2,6 +2,4 @@
 - [Feedback](/#feedback)
 - [GitHub](https://github.com)
 - [Docsify](https://docsify.js.org)
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkyOTM2NDYzNl19
--->
+- [Alertbox Inc.](https://twitter.com/alertboxinc)
