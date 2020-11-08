@@ -5,6 +5,15 @@ on:
     branches: 
       - master
 jobs:
+  Replace:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Find and Replace
+        uses: jacobtomlinson/gha-find-replace@master
+        with:
+          find: <!--[\s\S]*?-->
+          replace: ""
   test:
     runs-on: ubuntu-latest
     steps:
